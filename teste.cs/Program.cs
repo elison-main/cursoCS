@@ -37,7 +37,7 @@ namespace Cadastro
             }
             else
             {
-                Console.WriteLine("Essa ID não existe!");
+                Console.WriteLine("Essa ID não foi cadastrada ou não existe!");
             }
 
             Console.WriteLine();
